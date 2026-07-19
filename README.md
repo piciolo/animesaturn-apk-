@@ -29,9 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="img/player.png" width="62%" alt="Player a schermo intero con sottotitoli">
-  &nbsp;
-  <img src="img/download.png" width="30%" alt="Download in corso">
+  <img src="img/player.png" width="62%" alt="Player a schermo intero con sottotitoli">&nbsp;<img src="img/Screenshot_20260719_111622.jpg" width="62%" alt="Player a schermo intero con sottotitoli">
 </p>
 
 ## ✨ Cosa puoi fare
