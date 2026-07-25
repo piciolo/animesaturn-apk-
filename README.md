@@ -51,15 +51,33 @@
 ## ⬇️ Come si installa
 
 1. Apri le **[Releases](https://github.com/piciolo/animesaturn-apk-/releases/latest)**
-   e scarica **`AnimeSaturn-*-arm64-v8a.apk`** (è quello giusto per praticamente
-   tutti i telefoni moderni).
-   *Solo per telefoni molto vecchi a 32 bit:* variante `armeabi-v7a`.
+   e scarica l'APK:
+   - **`AnimeSaturn-*-arm64-v8a.apk`** → praticamente tutti i telefoni moderni;
+   - `armeabi-v7a` → solo telefoni molto vecchi a 32 bit;
+   - **`AnimeSaturn-*-universal.apk`** → se non sai quale scegliere o lo installi
+     su **Fire TV / TV box**: va su tutto (più grande, ma a prova di errore).
 2. Apri il file scaricato sul telefono.
 3. Android chiederà di consentire l'installazione da **origini sconosciute**:
    acconsenti e completa. Fine.
 
 > Non arrivando dal Play Store, è normale che il telefono mostri un avviso: è la
 > procedura standard per le app installate manualmente (*sideload*).
+
+## 📺 Su Fire TV / Fire Stick
+
+Il Fire Stick usa Android, quindi l'app si installa via *sideload*. Usa l'APK
+**`universal`**. In breve:
+
+1. Installa **Downloader** dall'Amazon Appstore e, in *Impostazioni → I miei
+   Fire TV → Opzioni sviluppatore → Installa app sconosciute*, abilita Downloader.
+2. In Downloader apri la pagina delle **Releases** e scarica l'APK `universal`, poi
+   installalo.
+3. Installa anche **Mouse Toggle for Fire TV**: aggiunge un **cursore** comandabile
+   col telecomando — serve perché l'app è nata per il tocco e la navigazione a
+   frecce da sola è scomoda. (In alternativa: un mouse Bluetooth.)
+
+> Il video va benissimo a schermo intero; è solo lo spostarsi nei menu col
+> telecomando che richiede il cursore.
 
 ## 📱 Requisiti
 
