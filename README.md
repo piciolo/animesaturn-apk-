@@ -79,6 +79,20 @@ Il Fire Stick usa Android, quindi l'app si installa via *sideload*. Usa l'APK
 > Il video va benissimo a schermo intero; è solo lo spostarsi nei menu col
 > telecomando che richiede il cursore.
 
+
+## 🔄 Aggiornamenti automatici (Obtainium)
+
+Non arrivando da uno store, l'app non si aggiorna da sola. Con **Obtainium** sì:
+
+1. Installa [Obtainium](https://github.com/ImranR98/Obtainium/releases/latest).
+2. Tocca **Aggiungi app** e incolla questo indirizzo:
+   ```
+   https://github.com/piciolo/animesaturn-apk-
+   ```
+3. Scegli l'APK adatto al tuo dispositivo (vedi la tabella sopra) e conferma.
+
+Da lì in poi riceverai ogni nuova versione come da uno store.
+
 ## 📱 Requisiti
 
 - Android **7.0** o superiore
