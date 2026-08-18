@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://piciolo.github.io/animesaturn-apk-/sitemap.xml
