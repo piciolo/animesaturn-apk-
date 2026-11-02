@@ -1,0 +1,21 @@
+{
+  "_nota": "Domini dei portali, letti dalle app all'avvio e tenuti in memoria. Modifica questo file quando un portale trasloca: tutte le installazioni si allineano da sole, senza pubblicare una versione nuova. L'app prova i domini nell'ordine scritto qui e usa il primo che risponde E che risulta davvero quel portale, cosi' un dominio parcheggiato non viene scambiato per il sito. Se questo file non e' raggiungibile, le app usano l'elenco interno all'applicazione.",
+  "versione": 1,
+  "animeunity": [
+    "https://www.animeunity.co",
+    "https://www.animeunity.to",
+    "https://www.animeunity.it"
+  ],
+  "animesaturn": [
+    "https://www.animesaturn.net",
+    "https://www.animesaturn.tv",
+    "https://www.animesaturn.cc",
+    "https://www.animesaturn.in",
+    "https://www.animesaturn.co",
+    "https://www.animesaturn.it",
+    "https://www.animesaturn.com",
+    "https://www.animesaturn.moe",
+    "https://www.animesaturn.mx",
+    "https://www.animesaturn.run"
+  ]
+}
