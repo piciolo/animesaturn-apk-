@@ -5,8 +5,18 @@
 <h1 align="center">AnimeSaturn — App Android</h1>
 
 <p align="center">
-  Guarda e scarica anime in italiano dal telefono.<br>
+  Guarda e scarica anime in italiano dal telefono, da
+  <b>AnimeSaturn</b> e <b>AnimeUnity</b>: all'avvio scegli il portale.<br>
   Streaming integrato, download offline e ripresa da dove eri rimasto.
+</p>
+
+<p align="center">
+  <sub>
+    L'app si chiama ancora AnimeSaturn, come l'icona sul telefono, ma i portali che
+    legge sono due. Lo stesso programma esiste anche
+    <a href="https://github.com/piciolo/AnimeSaturn-AnimeUnity-Downloader">per Windows</a>,
+    e i due si scambiano preferiti e punto di ripresa.
+  </sub>
 </p>
 
 <p align="center">
@@ -34,6 +44,12 @@
 
 ## ✨ Cosa puoi fare
 
+- **Due portali, uno alla volta.** All'avvio scegli dove guardare — **AnimeSaturn** o
+  **AnimeUnity**. Puoi ricordare la scelta e cambiarla dalle Impostazioni. Catalogo,
+  ricerca, preferiti e *continua a guardare* mostrano il portale scelto; le voci
+  dell'altro **non vengono spostate né cancellate** e tornano in elenco appena ci torni.
+- **Se un portale non riesce a servire un episodio, l'app lo cerca sull'altro** per
+  titolo e riproduce quello, senza chiedere nulla.
 - **Cerca** un anime e ottieni i suggerimenti mentre scrivi.
 - **Sfoglia** il catalogo: *Archivio*, *In corso*, *Ultimi aggiunti*, con **filtri**
   per genere, tipo, stato, stagione, lingua, anno e **Sub/Dub**.
@@ -45,8 +61,10 @@
   coda con velocità, download simultanei regolabili, pausa e **ripresa** se
   l'interruzione ti lascia a metà.
 - **Libreria** con tutto ciò che hai scaricato, pronta da riprodurre.
-- Se il sito **cambia indirizzo**, l'app se ne accorge e si aggiorna da sola;
-  in caso contrario puoi inserirlo a mano dalle Impostazioni.
+- Se un portale **cambia indirizzo**, l'app se ne accorge e si aggiorna da sola:
+  l'elenco dei domini è pubblicato qui accanto agli APK, quindi un trasloco del sito
+  non richiede una nuova versione. Se proprio serve, puoi inserirlo a mano dalle
+  Impostazioni.
 
 ## ⬇️ Come si installa
 
@@ -103,14 +121,14 @@ Da lì in poi riceverai ogni nuova versione come da uno store.
 - In orizzontale il video usa tutta l'altezza dello schermo; con il pulsante
   **Riempi** puoi allargarlo a tutto schermo (ritagliando i bordi).
 - Se il catalogo non carica, apri **Impostazioni → Verifica ora**: l'app cerca da
-  sola l'indirizzo aggiornato del sito.
+  sola l'indirizzo aggiornato del portale.
 - Attiva le **notifiche** se vuoi vedere l'avanzamento dei download.
 
 ## ⚠️ Note
 
-App **non ufficiale**, non affiliata ad AnimeSaturn. Distribuita per **uso
-personale**: rispetta le leggi sul diritto d'autore e i termini di servizio del
-sito, e guarda o scarica solo contenuti per cui hai i relativi diritti.
+App **non ufficiale**, non affiliata ad AnimeSaturn né ad AnimeUnity. Distribuita
+per **uso personale**: rispetta le leggi sul diritto d'autore e i termini di servizio
+dei siti, e guarda o scarica solo contenuti per cui hai i relativi diritti.
 Nessuna garanzia: usala a tuo rischio.
 
 Attribuzioni e licenze dei componenti di terze parti: vedi **[NOTICE.md](NOTICE.md)**.
